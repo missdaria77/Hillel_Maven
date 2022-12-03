@@ -51,7 +51,7 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.HW16Test.meanTest">
+  <component name="RunManager" selected="JUnit.HW16Test">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
       <module name="Hillel_Maven" />
@@ -61,6 +61,15 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HW16Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Hillel_Maven" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HW16Test" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -87,6 +96,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.HW16Test" />
         <item itemvalue="JUnit.HW16Test.meanTest" />
         <item itemvalue="JUnit.HW16Test.checkSqMatrixTest" />
         <item itemvalue="Application.Main" />
