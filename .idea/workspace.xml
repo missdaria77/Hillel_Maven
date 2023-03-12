@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdaacb0c-c114-4e90-be6a-cdfd007915dc" name="Changes" comment="HW16" />
+    <list default="true" id="cdaacb0c-c114-4e90-be6a-cdfd007915dc" name="Changes" comment="HW16">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/home8/DuplicatesFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/home8/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/home8/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/home8/DuplicatesFinderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/home8/PalindromeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/home8/TwoSumFinderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/HW16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/basic/HW16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/basic/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/HW16Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/basic/HW16Test.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,7 +35,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2IN1xCXfJRtafsciPNYBYXyA0nh" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,61 +48,91 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Daryna_Mishchenko/Learning/Hillel_Maven&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.HW16Test">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.example.basic" />
+      <recent name="org.example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TwoSumFinderTest">
+    <configuration name="DuplicatesFinderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Hillel_Maven" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="org.example.home8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="org.example.home8" />
+      <option name="MAIN_CLASS_NAME" value="org.example.home8.DuplicatesFinderTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="HW16Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Hillel_Maven" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="HW16Test" />
+      <option name="PACKAGE_NAME" value="org.example.basic" />
+      <option name="MAIN_CLASS_NAME" value="org.example.basic.HW16Test" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HW16Test.checkSqMatrixTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Hillel_Maven" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="HW16Test" />
-      <option name="METHOD_NAME" value="checkSqMatrixTest" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="HW16Test.meanTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Hillel_Maven" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="HW16Test" />
+      <option name="PACKAGE_NAME" value="org.example.basic" />
+      <option name="MAIN_CLASS_NAME" value="org.example.basic.HW16Test" />
       <option name="METHOD_NAME" value="meanTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PalindromeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Hillel_Maven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.home8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.home8" />
+      <option name="MAIN_CLASS_NAME" value="org.example.home8.PalindromeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoSumFinderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Hillel_Maven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.home8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.home8" />
+      <option name="MAIN_CLASS_NAME" value="org.example.home8.TwoSumFinderTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TwoSumFinderTest" />
+        <item itemvalue="JUnit.DuplicatesFinderTest" />
+        <item itemvalue="JUnit.PalindromeTest" />
         <item itemvalue="JUnit.HW16Test" />
         <item itemvalue="JUnit.HW16Test.meanTest" />
-        <item itemvalue="JUnit.HW16Test.checkSqMatrixTest" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -103,6 +146,13 @@
       <updated>1670007474188</updated>
       <workItem from="1670007476529" duration="6109000" />
       <workItem from="1670072296799" duration="590000" />
+      <workItem from="1670072901449" duration="760000" />
+      <workItem from="1671819965618" duration="40000" />
+      <workItem from="1678469538414" duration="797000" />
+      <workItem from="1678480131841" duration="45000" />
+      <workItem from="1678639579719" duration="732000" />
+      <workItem from="1678641768050" duration="720000" />
+      <workItem from="1678662733941" duration="2410000" />
     </task>
     <task id="LOCAL-00001" summary="HW16">
       <created>1670072473195</created>
@@ -118,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670072590102</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="HW16">
+      <created>1670072915674</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670072915674</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

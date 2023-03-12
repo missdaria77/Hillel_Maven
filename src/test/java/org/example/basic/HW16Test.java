@@ -1,4 +1,6 @@
-import org.example.HW16;
+package org.example.basic;
+
+
 import org.junit.Assert;
 import org.junit.Test;
 
