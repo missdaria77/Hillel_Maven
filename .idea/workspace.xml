@@ -4,17 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdaacb0c-c114-4e90-be6a-cdfd007915dc" name="Changes" comment="HW16">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/home8/DuplicatesFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/home8/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/home8/TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/home8/DuplicatesFinderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/home8/PalindromeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/home8/TwoSumFinderTest.java" afterDir="false" />
+    <list default="true" id="cdaacb0c-c114-4e90-be6a-cdfd007915dc" name="Changes" comment="HW8 was added">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/home10/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/home10/MaxProfit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/home10/ReversedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/home10/MaxProfitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/home10/ReversedListTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/HW16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/basic/HW16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/basic/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/HW16Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/basic/HW16Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +57,7 @@
       <recent name="org.example" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TwoSumFinderTest">
+  <component name="RunManager" selected="JUnit.ReversedListTest">
     <configuration name="DuplicatesFinderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Hillel_Maven" />
       <extension name="coverage">
@@ -77,36 +73,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HW16Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Hillel_Maven" />
-      <option name="PACKAGE_NAME" value="org.example.basic" />
-      <option name="MAIN_CLASS_NAME" value="org.example.basic.HW16Test" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HW16Test.meanTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Hillel_Maven" />
-      <option name="PACKAGE_NAME" value="org.example.basic" />
-      <option name="MAIN_CLASS_NAME" value="org.example.basic.HW16Test" />
-      <option name="METHOD_NAME" value="meanTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PalindromeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MaxProfitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Hillel_Maven" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.home8.*" />
+          <option name="PATTERN" value="org.example.home10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.example.home8" />
-      <option name="MAIN_CLASS_NAME" value="org.example.home8.PalindromeTest" />
+      <option name="PACKAGE_NAME" value="org.example.home10" />
+      <option name="MAIN_CLASS_NAME" value="org.example.home10.MaxProfitTest" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReversedListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Hillel_Maven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.home10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.home10" />
+      <option name="MAIN_CLASS_NAME" value="org.example.home10.ReversedListTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReversedListTest.ReversedListPositive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Hillel_Maven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.home10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.home10" />
+      <option name="MAIN_CLASS_NAME" value="org.example.home10.ReversedListTest" />
+      <option name="METHOD_NAME" value="ReversedListPositive" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -128,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ReversedListTest" />
+        <item itemvalue="JUnit.MaxProfitTest" />
+        <item itemvalue="JUnit.ReversedListTest.ReversedListPositive" />
         <item itemvalue="JUnit.TwoSumFinderTest" />
         <item itemvalue="JUnit.DuplicatesFinderTest" />
-        <item itemvalue="JUnit.PalindromeTest" />
-        <item itemvalue="JUnit.HW16Test" />
-        <item itemvalue="JUnit.HW16Test.meanTest" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +160,10 @@
       <workItem from="1678480131841" duration="45000" />
       <workItem from="1678639579719" duration="732000" />
       <workItem from="1678641768050" duration="720000" />
-      <workItem from="1678662733941" duration="2410000" />
+      <workItem from="1678662733941" duration="2508000" />
+      <workItem from="1679232563861" duration="16000" />
+      <workItem from="1679232606010" duration="718000" />
+      <workItem from="1679253134968" duration="1839000" />
     </task>
     <task id="LOCAL-00001" summary="HW16">
       <created>1670072473195</created>
@@ -175,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670072915674</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="HW8 was added">
+      <created>1678665222245</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678665222245</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,6 +212,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="HW16" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW16" />
+    <MESSAGE value="HW8 was added" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW8 was added" />
   </component>
 </project>
