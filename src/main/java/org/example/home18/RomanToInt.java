@@ -12,13 +12,9 @@ public class RomanToInt {
 
         int res = 0;
         for (int i = 0; i < input.size(); i++) {
-            if (i != input.size() - 1) {
-                if (values.get(input.get(i)) < values.get(input.get(i + 1))) {
-                    res = res + values.get(input.get(i + 1)) - values.get(input.get(i));
-                    i++;
-                } else {
-                    res = res + values.get(input.get(i));
-                }
+            if ((i != input.size() - 1) && (values.get(input.get(i)) < values.get(input.get(i + 1)))) {
+                res = res + values.get(input.get(i + 1)) - values.get(input.get(i));
+                i++;
             } else {
                 res = res + values.get(input.get(i));
             }
