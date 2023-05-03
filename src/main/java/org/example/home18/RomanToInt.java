@@ -1,4 +1,4 @@
-package org.example.basic.home18;
+package org.example.home18;
 
 import java.util.*;
 

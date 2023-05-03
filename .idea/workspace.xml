@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdaacb0c-c114-4e90-be6a-cdfd007915dc" name="Changes" comment="HW10 was added">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/basic/home18/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/basic/home18/RomanToInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/basic/home18/RomanToIntTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/basic/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/basic/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="cdaacb0c-c114-4e90-be6a-cdfd007915dc" name="Changes" comment="HW18" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,26 +31,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Daryna_Mishchenko/Learning/Hillel",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Daryna_Mishchenko/Learning/Hillel&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="org.example.basic" />
       <recent name="org.example" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.RomanToIntTest">
+  <component name="RunManager" selected="JUnit.RomanToIntTest (1)">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.basic.Main" />
       <module name="Hillel_Maven" />
@@ -96,16 +90,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReversedListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RomanToIntTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Hillel_Maven" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.home10.*" />
+          <option name="PATTERN" value="org.example.home18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.example.home10" />
-      <option name="MAIN_CLASS_NAME" value="org.example.home10.ReversedListTest" />
+      <option name="PACKAGE_NAME" value="org.example.home18" />
+      <option name="MAIN_CLASS_NAME" value="org.example.home18.RomanToIntTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -128,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.RomanToIntTest (1)" />
         <item itemvalue="JUnit.RomanToIntTest" />
         <item itemvalue="Application.org.example.basic.home18.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.RomanToInt" />
-        <item itemvalue="JUnit.ReversedListTest" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +151,7 @@
       <workItem from="1679232606010" duration="718000" />
       <workItem from="1679253134968" duration="2753000" />
       <workItem from="1679761678762" duration="27000" />
-      <workItem from="1683116948558" duration="10669000" />
+      <workItem from="1683116948558" duration="10911000" />
     </task>
     <task id="LOCAL-00001" summary="HW16">
       <created>1670072473195</created>
@@ -194,7 +188,21 @@
       <option name="project" value="LOCAL" />
       <updated>1679260089692</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="HW18">
+      <created>1683129995486</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1683129995486</updated>
+    </task>
+    <task id="LOCAL-00007" summary="HW18">
+      <created>1683130091741</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1683130091741</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,6 +223,8 @@
     <MESSAGE value="HW16" />
     <MESSAGE value="HW8 was added" />
     <MESSAGE value="HW10 was added" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW10 was added" />
+    <MESSAGE value="HW18 was added" />
+    <MESSAGE value="HW18" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW18" />
   </component>
 </project>
