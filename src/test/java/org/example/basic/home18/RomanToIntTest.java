@@ -16,7 +16,7 @@ public class RomanToIntTest {
     }
 
     @Test
-    public void romanToIntTestcomplex() {
+    public void romanToIntComplexTest() {
         String input = "MMMXCV";
         int expected = 3095;
         int actual = RomanToInt.romanToInt(input);
