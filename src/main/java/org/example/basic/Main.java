@@ -1,17 +1,15 @@
 package org.example.basic;
 
-public class Main {
-    /*
-    public static void main(String[] args) {
-        double[] array = {2.0, 2.5, 3.0, 70.5, 5.0, 7.0};
-        double mean = HW16.mean(array);
-        System.out.println(mean);
+import org.example.basic.home18.RomanToInt;
 
-        int[][] arr = {{1, 2, 3}, {3, 4}};
-        int length = arr.length;
-        System.out.println(length);
-        int l = arr[0].length;
-        System.out.println(l);
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Map;
+
+public class Main {
+
+    public static void main(String[] args) {
+
     }
-     */
 }
+

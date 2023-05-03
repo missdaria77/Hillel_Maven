@@ -5,6 +5,7 @@ import org.junit.Test;
 public class DuplicatesFinderTest {
 
     private final DuplicatesFinder duplicatesFinder = new DuplicatesFinder();
+
     @Test
     public void checkDuplicatesTest() {
         int[] input = new int[]{1, 1, 1, 3, 3, 4, 3, 2, 4, 2};
